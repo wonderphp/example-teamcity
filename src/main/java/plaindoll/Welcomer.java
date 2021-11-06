@@ -7,7 +7,7 @@ public class Welcomer{
 	public String sayFarewell() {
 		return "Farewell, good hunter. May you find your worth in waking world.";
 	}
-	public String sayGun() {
+	public String sayZoo() {
 		return "What was the cost of hunting at the zoo? Couple bucks, good hunter!";
 	}
 }
